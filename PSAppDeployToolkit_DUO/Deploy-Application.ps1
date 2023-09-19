@@ -108,7 +108,7 @@ Try {
     ##*===============================================
     ## Variables: Application
     [String]$appVendor = 'DUO'
-    [String]$appName = 'Desktop - ABF'
+    [String]$appName = 'Desktop'
     [String]$appVersion = 'v4.2.2'
     [String]$appArch = ''
     [String]$appLang = 'FR'
